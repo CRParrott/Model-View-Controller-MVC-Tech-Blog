@@ -1,5 +1,7 @@
 # Model-View-Controller-MVC-Tech-Blog
 
+Launched at heroku (https://dashboard.heroku.com/apps/mighty-forest-46873)
+
 ## User Story
 
 ```md
